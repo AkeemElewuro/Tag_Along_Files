@@ -1,2 +1,3 @@
 # Tag_Along_Files
-Quizes Tag-Along notebooks
+Quizzes Tag-Along notebooks
+These repo contains tag-along notebooks for graded quizzes with python
